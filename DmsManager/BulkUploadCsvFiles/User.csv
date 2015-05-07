@@ -1,4 +1,0 @@
-orgid,tenantid,createdate,updatedate,status,type,dataflag,files,fname,mname,lname,gender,dob,userid,password,createdBy,roles,zoneid,entityid
-Anchor,AnchorFresh,23-03-2015,,active,Company Head,NA,NA,vinod,,kumar,male,22-05-1998,AF-USR-1001,xyz,AF-USR-1001,Admin,AF-ZN-1001,P00000001
-Anchor,AnchorFresh,23-03-2015,,active,dilivery boy,NA,NA,arvind,,kumar,male,13-07-1988,AF-USR-1002,pqr,AF-USR-1001,SE,AF-ZN-1001,DB0000001
-Anchor,AnchorFresh,23-03-2015,,active,SM,NA,NA,abrar,ulla,khan,male,13-11-1998,AF-USR-1003,pqr,AF-USR-1001,Admin,AF-ZN-1001,DB0000001

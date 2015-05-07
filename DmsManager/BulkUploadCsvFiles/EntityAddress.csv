@@ -1,6 +1,0 @@
-orgid,tenantid,createdate,updatedate,status,type,dataflag,files,ownerid,homephone,workphone,mobilephone,fax,email1,email2,address1,address2,city,state,country,zipcode,addresstype
-Anchor,AnchorFresh,23-03-2015,,active,Master,NA,NA,P00000001,12345678,41258745,3625489821,3265478565,info@anchor.com,NA,R T Nagar,,Bangalore,Karnataka,India,560032,main office
-Anchor,AnchorFresh,23-03-2015,,active,SS,NA,NA,SS0000002,12345674,41258715,3625489811,3265478535,info.ds1@anchor.com,NA,Hebbal,,Bangalore,Karnataka,India,560032,work
-Anchor,AnchorFresh,23-03-2015,,active,Distributor,NA,NA,DB0000001,12325674,11258715,3622489811,3265178535,info.ds2@anchor.com,NA,Yelhanka,,Bangalore,Karnataka,India,560032,corporate
-Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,AF-OUT-1001,12325174,11258713,3622489812,3265178534,info.out1@anchor.com,NA,Hebbal,,Bangalore,Karnataka,India,560032,shop
-Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,AF-OUT-1002,12325624,11258725,3622489831,3265178536,info.out4@anchor.com,NA,Yelhanka,,Bangalore,Karnataka,India,560032,shop

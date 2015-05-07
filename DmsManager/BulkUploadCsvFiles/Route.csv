@@ -1,3 +1,0 @@
-orgid,tenantid,createdate,updatedate,status,type,dataflag,files,routeid,name,zoneid,userid,frequency,entityid
-Anchor,AnchorFresh,23-03-2015,,active,,,,AF-RT-1001,RTNagar,AF-ZN-1001,AF-USR-1002,daily,DB0000001
-Anchor,AnchorFresh,23-03-2015,,active,,,,AF-RT-1002,Yelhanka,AF-ZN-1002,AF-USR-1002,weekly,DB0000002
