@@ -1,0 +1,3 @@
+orgid,tenantid,createdate,updatedate,status,type,dataflag,files,ownerid,homephone,workphone,mobilephone,fax,email1,email2,address1,address2,city,state,country,zipcode,addresstype
+Anchor,AnchorFresh,23-03-2015,,active,user,,,AF-USR-1003,12345678,41258745,3625489821,,info.user1@anchor.com,,R T Nagar,,Bangalore,Karnataka,India,560032,current address
+Anchor,AnchorFresh,23-03-2015,,active,user,,,AF-USR-1002,12345678,41258744,3625489822,,info.user2@anchor.com,,R T Nagar,,Bangalore,Karnataka,India,560032,home address

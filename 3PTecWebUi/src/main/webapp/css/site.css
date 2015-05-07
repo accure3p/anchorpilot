@@ -1,0 +1,79 @@
+
+/* Styles for Checkbox start
+-----------------------------------------------------------*/
+input[type=checkbox]{
+    height:35px;
+    width:35px;
+    margin-left:0px;
+    margin-top:0px;
+}
+
+input[type=checkbox] + label.chk-label {
+    padding-left:43em;
+    margin-top:-36.8px;
+    margin-left:-2px;
+    height:50px; 
+    display:inline-block;
+    background-repeat:no-repeat;
+    cursor:pointer;
+}
+input[type=checkbox].chkbox:checked + label.chk-label {
+    background-position: 0 -35px;
+}
+label.chk-label {
+    background-image:url(../images/chk-box3.png);
+}
+
+
+
+/* Styles for checkbox ends
+-----------------------------------------------------------*/
+
+
+/* Styles for other
+-----------------------------------------------------------*/
+
+div[data-role="page"].ui-page-active { padding-top: 40px; }
+.db-content-full { width: 995px; min-height: 695px; margin-top: 5px; padding: 4px; }
+.db-content-box {
+    padding: 7px;
+    min-height: 665px;
+}
+#examcanvas.db-content-box { min-height: 690px; padding-right: 40px; }
+
+#logincanvas.db-content-box { min-height: 350px;width: 350px; padding: 10px; margin: 40px auto;font-size: 1.2em; }
+.db-jointcount {
+    background-image: url('../images/hb675.jpg');
+    background-repeat: repeat-x;
+    background-position: -19px 0px;    /* 117 */
+}
+.rel {
+    position: relative;
+}
+#noportrait 
+{
+    width: 100%;
+    height: 769px;
+    display: none;
+    visibility: hidden;
+    z-index: 100000;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+#noportrait img.title {
+    width: 755px;
+    display: block;
+    height: auto;
+    margin: 0px auto;
+}
+#noportrait div.message {
+    width: 500px;
+    margin: 80px auto;
+}
+#noportrait .icon-custom {
+    float: left;
+    padding-right: 10px;
+}
+
