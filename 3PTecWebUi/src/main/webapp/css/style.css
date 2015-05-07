@@ -1,0 +1,181 @@
+/*//for search field*/
+#searchfield form {
+    display: inline-block;
+    background: #eeefed;
+    padding: 0;
+    margin: 0;
+    padding: 5px;
+    border-radius: 3px;
+    margin: 5px 0 0 0;
+}
+#searchfield form .biginput {
+    min-width: 250px;
+    height: 40px;
+    padding: 0 10px 0 10px;
+    background-color: #fff;
+    border: 1px solid #c8c8c8;
+    border-radius: 3px;
+    color: #aeaeae;
+    font-weight:normal;
+    font-size: 1.5em;
+    -webkit-transition: all 0.2s linear;
+    -moz-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+#searchfield form .biginput:focus {
+    color: #858585;
+}
+/*min-width:35%; max-width:100%;*/ 
+
+/*.autocomplete-suggestions { border: 1px solid #999; background: #fff; cursor: default; overflow: auto; cursor: pointer; }*/
+/*.autocomplete-suggestion { padding: 10px 5px; font-size: 1.2em; white-space: nowrap; overflow: hidden; cursor: pointer; }
+.autocomplete-selected { background: #f0f0f0; cursor: pointer; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399ff; cursor: pointer; }*/
+
+.searchBar{
+    border-color: #ccc;
+    border-color: rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;   
+}
+
+.autocomplete-suggestions {
+    position: absolute;
+    /*top: 50px;*/
+    left: 0;
+    z-index: 1000;
+    float: left;
+    display: none;
+    /*    min-width: 35%;
+        max-width:100%;*/
+    padding: 4px 0;
+    margin: 2px 0 0 0;
+    list-style: none;
+    background-color: #ffffff;
+    border-color: #ccc;
+    border-color: rgba(0, 0, 0, 0.2);
+    border-style: solid;
+    border-width: 1px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    background-clip: padding-box;
+    *border-right-width: 2px;
+    *border-bottom-width: 2px;
+    overflow: auto;
+}
+/*.autocomplete-suggestion { padding: 10px 5px; font-size: 1.2em; white-space: nowrap; overflow: hidden; cursor: pointer; }
+.autocomplete-selected { background: #f0f0f0; cursor: pointer; }*/
+
+.autocomplete-suggestion {
+    display: block;
+    padding: 10px 5px;
+    clear: both;
+    font-weight: normal;
+    line-height: 18px;
+    color: #555555;
+    white-space: nowrap;
+    overflow: visible;
+    cursor: pointer;
+    font-size:18px; 
+}
+.autocomplete-selected {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #428bca;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    background-image: none;
+    cursor: pointer;
+}
+.autocomplete-suggestions strong { font-size:20px; font-weight: normal; color: orange; cursor: pointer; }
+
+.report-view {
+    margin: 2px 0 0 0;
+    list-style: none;
+    background-color: #ffffff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding-box;
+    background-clip: padding-box;
+    *border-right-width: 1px;
+    *border-bottom-width: 1px;
+    *border-left-width: 2px;
+    *border-top-width: 2px;
+}
+
+
+
+
+/*new search typeahead start*/ 
+.bs-example{
+    cursor: pointer;
+    position: absolute;
+}
+.typeahead, .tt-query, .tt-hint {
+    font-size: 16px;
+    padding: 8px 12px;
+    width: 500px;
+    border-radius: 3px;
+    height:37px;
+}
+.typeahead {
+    background-color: #FFFFFF;
+}
+.typeahead:focus {
+    /*border: 2px solid #0097CF;*/
+}
+.tt-hint {
+    cursor: pointer;
+    color: transparent;
+}
+.tt-dropdown-menu {
+    cursor: pointer;    
+    margin-top: 3px;
+    padding: 8px 0;
+    width: 500px;
+    min-height: auto;
+    max-height: 250px;
+    color: black;
+    background-color: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    border-color: #ccc;
+    border-color: rgba(0, 0, 0, 0.2);
+    overflow: auto;
+}
+.twitter-typeahead{
+    position: absolute;
+    display: inline-block;
+}
+.tt-suggestion {
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 3px 20px;
+}
+.tt-suggestion.tt-is-under-cursor {
+    cursor: pointer;
+    background-color: #428bca;
+    color: #FFFFFF;
+}
+.tt-suggestion p {
+    margin: 0;
+}
+/*new search typeahead end*/ 
