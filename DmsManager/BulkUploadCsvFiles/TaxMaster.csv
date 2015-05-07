@@ -1,0 +1,3 @@
+orgid,tenantid,createdate,updatedate,status,type,dataflag,files,taxid,description,itemtaxgroup,taxpercent,state,country
+Anchor,AnchorFresh,23-03-2015,,active,VAT,,,AF-TAX-1001,,comodities,12.5,Karnataka,India
+Anchor,AnchorFresh,23-03-2015,,active,ST,,,AF-TAX-1002,,jwellary,18.5,Karnataka,India

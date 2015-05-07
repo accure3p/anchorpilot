@@ -1,0 +1,16 @@
+orgid,tenantid,createdate,updatedate,status,type,dataflag,files,parententityid,entityid,groupname,name,zoneid,routeid
+Anchor,AnchorFresh,23-03-2015,,active,Master,NA,NA,null,P00000001,,Anchor Health And Beauty Care Ltd,AF-ZN-1001,null
+Anchor,AnchorFresh,23-03-2015,,active,SS,NA,NA,P00000001,SS0000001,,Adish Sales & Marketing,AF-ZN-1001,null
+Anchor,AnchorFresh,23-03-2015,,active,SS,NA,NA,P00000001,SS0000002,,Jai Ambe Agencies,AF-ZN-1002,null
+Anchor,AnchorFresh,23-03-2015,,active,DSB,NA,NA,SS0000001,DB0000001,,Sri Maruti Agencies,AF-ZN-1002,null
+Anchor,AnchorFresh,23-03-2015,,active,DSB,NA,NA,SS0000001,DB0000002,,Shreya Agencies,AF-ZN-1002,null
+Anchor,AnchorFresh,23-03-2015,,active,DSB,NA,NA,SS0000002,DB0000003,,Sahana Agencies,AF-ZN-1002,null
+Anchor,AnchorFresh,23-03-2015,,active,DSB,NA,NA,SS0000002,DB0000004,,Vinayaka Agencies,AF-ZN-1001,null
+Anchor,AnchorFresh,23-03-2015,,active,Master,NA,NA,null,P00000002,,Levi's Strauss & Co,AF-ZN-1001,null
+Anchor,AnchorFresh,23-03-2015,,active,DSB,NA,NA,P00000002,DB0000005,,Adonis Connect,AF-ZN-1001,null
+Anchor,AnchorFresh,23-03-2015,,active,DSB,NA,NA,P00000002,DB0000006,,HR & Co,AF-ZN-1001,null
+Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,DB0000001,AF-OUT-1001,,,AF-ZN-1001,AF-RT-1001
+Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,DB0000001,AF-OUT-1002,,,AF-ZN-1001,AF-RT-1001
+Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,DB0000002,AF-OUT-1003,,,AF-ZN-1001,AF-RT-1002
+Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,DB0000003,AF-OUT-1004,,,AF-ZN-1002,AF-RT-1003
+Anchor,AnchorFresh,23-03-2015,,active,Outlet,NA,NA,DB0000005,AF-OUT-1005,,,AF-ZN-1002,AF-RT-1004

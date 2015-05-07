@@ -1,0 +1,9 @@
+orgid,tenantid,createdate,updatedate,status,type,dataflag,files,role name,privileges
+Anchor,AnchorFresh,23-03-2015,,active,Admin,NA,NA,Admin,admin
+Anchor,AnchorFresh,23-03-2015,,active,CXO,NA,NA,CXO,super admin
+Anchor,AnchorFresh,23-03-2015,,active,SH,NA,NA,Sales Head,sales
+Anchor,AnchorFresh,23-03-2015,,active,ASM,NA,NA,Area Sales Manager,sales
+Anchor,AnchorFresh,23-03-2015,,active,RSM,NA,NA,Regional Sales Manager,sales
+Anchor,AnchorFresh,23-03-2015,,active,SM,NA,NA,Sales Manager,sales
+Anchor,AnchorFresh,23-03-2015,,active,DS,NA,NA,Distributor,sales
+Anchor,AnchorFresh,23-03-2015,,active,SE,NA,NA,Sales Executive,sales
